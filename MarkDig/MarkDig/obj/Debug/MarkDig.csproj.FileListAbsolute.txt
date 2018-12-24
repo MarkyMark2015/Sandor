@@ -1,0 +1,15 @@
+C:\Users\mts20\source\repos\MarkDig\MarkDig\bin\Debug\MarkDig.exe.config
+C:\Users\mts20\source\repos\MarkDig\MarkDig\bin\Debug\MarkDig.exe
+C:\Users\mts20\source\repos\MarkDig\MarkDig\bin\Debug\MarkDig.pdb
+C:\Users\mts20\source\repos\MarkDig\MarkDig\bin\Debug\Markdig.dll
+C:\Users\mts20\source\repos\MarkDig\MarkDig\bin\Debug\Markdig.xml
+C:\Users\mts20\source\repos\MarkDig\MarkDig\obj\Debug\MarkDig.Form1.resources
+C:\Users\mts20\source\repos\MarkDig\MarkDig\obj\Debug\MarkDig.Properties.Resources.resources
+C:\Users\mts20\source\repos\MarkDig\MarkDig\obj\Debug\MarkDig.csproj.GenerateResource.cache
+C:\Users\mts20\source\repos\MarkDig\MarkDig\obj\Debug\MarkDig.csproj.CoreCompileInputs.cache
+C:\Users\mts20\source\repos\MarkDig\MarkDig\obj\Debug\MarkDig.csproj.CopyComplete
+C:\Users\mts20\source\repos\MarkDig\MarkDig\obj\Debug\MarkDig.exe
+C:\Users\mts20\source\repos\MarkDig\MarkDig\obj\Debug\MarkDig.pdb
+C:\Users\mts20\source\repos\MarkDig\MarkDig\obj\Debug\MarkDig.csprojAssemblyReference.cache
+C:\Users\mts20\source\repos\MarkDig\MarkDig\bin\Debug\TextFile1.txt
+C:\Users\mts20\source\repos\MarkDig\MarkDig\bin\Debug\default.css

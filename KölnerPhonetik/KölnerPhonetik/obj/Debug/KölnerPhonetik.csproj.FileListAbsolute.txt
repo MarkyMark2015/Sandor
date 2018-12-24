@@ -1,0 +1,7 @@
+C:\Users\mts20\source\repos\KölnerPhonetik\KölnerPhonetik\bin\Debug\KölnerPhonetik.exe.config
+C:\Users\mts20\source\repos\KölnerPhonetik\KölnerPhonetik\bin\Debug\KölnerPhonetik.exe
+C:\Users\mts20\source\repos\KölnerPhonetik\KölnerPhonetik\bin\Debug\KölnerPhonetik.pdb
+C:\Users\mts20\source\repos\KölnerPhonetik\KölnerPhonetik\obj\Debug\KölnerPhonetik.csprojResolveAssemblyReference.cache
+C:\Users\mts20\source\repos\KölnerPhonetik\KölnerPhonetik\obj\Debug\KölnerPhonetik.csproj.CoreCompileInputs.cache
+C:\Users\mts20\source\repos\KölnerPhonetik\KölnerPhonetik\obj\Debug\KölnerPhonetik.exe
+C:\Users\mts20\source\repos\KölnerPhonetik\KölnerPhonetik\obj\Debug\KölnerPhonetik.pdb

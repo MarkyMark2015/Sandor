@@ -1,0 +1,14 @@
+C:\Users\mts20\Desktop\hOOt_v3.3.8\SampleApp\bin\Debug\SampleApp.exe
+C:\Users\mts20\Desktop\hOOt_v3.3.8\SampleApp\bin\Debug\SampleApp.pdb
+C:\Users\mts20\Desktop\hOOt_v3.3.8\SampleApp\bin\Debug\Hoot.dll
+C:\Users\mts20\Desktop\hOOt_v3.3.8\SampleApp\bin\Debug\Hoot.pdb
+C:\Users\mts20\Desktop\hOOt_v3.3.8\SampleApp\obj\Debug\SampleApp.csprojResolveAssemblyReference.cache
+C:\Users\mts20\Desktop\hOOt_v3.3.8\SampleApp\obj\Debug\SampleApp.Form1.resources
+C:\Users\mts20\Desktop\hOOt_v3.3.8\SampleApp\obj\Debug\SampleApp.Properties.Resources.resources
+C:\Users\mts20\Desktop\hOOt_v3.3.8\SampleApp\obj\Debug\SampleApp.csproj.GenerateResource.Cache
+C:\Users\mts20\Desktop\hOOt_v3.3.8\SampleApp\obj\Debug\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\mts20\Desktop\hOOt_v3.3.8\SampleApp\obj\Debug\SampleApp.exe
+C:\Users\mts20\Desktop\hOOt_v3.3.8\SampleApp\obj\Debug\SampleApp.pdb
+C:\Users\mts20\Desktop\hOOt_v3.3.8\SampleApp\bin\Debug\SampleApp.exe.config
+C:\Users\mts20\Desktop\hOOt_v3.3.8\SampleApp\bin\Debug\Dapper.dll
+C:\Users\mts20\Desktop\hOOt_v3.3.8\SampleApp\bin\Debug\Dapper.xml

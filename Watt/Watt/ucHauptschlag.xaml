@@ -1,0 +1,10 @@
+﻿<UserControl x:Class="Watt.ucHauptschlag"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Watt"
+             mc:Ignorable="d" >
+    <Image x:Name="pic" Stretch="Uniform" Source="C:\Users\mts20\source\repos\Watt\Watt\bin\Release\Res\Blatt\XX.png"  />
+
+</UserControl>

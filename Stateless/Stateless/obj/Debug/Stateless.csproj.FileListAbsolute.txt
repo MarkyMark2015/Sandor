@@ -1,0 +1,9 @@
+C:\Users\mts20\source\repos\Stateless\Stateless\bin\Debug\Stateless.exe.config
+C:\Users\mts20\source\repos\Stateless\Stateless\bin\Debug\Stateless.exe
+C:\Users\mts20\source\repos\Stateless\Stateless\bin\Debug\Stateless.pdb
+C:\Users\mts20\source\repos\Stateless\Stateless\bin\Debug\Stateless.dll
+C:\Users\mts20\source\repos\Stateless\Stateless\bin\Debug\Stateless.xml
+C:\Users\mts20\source\repos\Stateless\Stateless\obj\Debug\Stateless.csprojResolveAssemblyReference.cache
+C:\Users\mts20\source\repos\Stateless\Stateless\obj\Debug\Stateless.csproj.CoreCompileInputs.cache
+C:\Users\mts20\source\repos\Stateless\Stateless\obj\Debug\Stateless.exe
+C:\Users\mts20\source\repos\Stateless\Stateless\obj\Debug\Stateless.pdb

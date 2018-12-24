@@ -1,0 +1,6 @@
+C:\Users\mts20\Desktop\hOOt_v3.3.8\Hoot\bin\Debug\Hoot.dll
+C:\Users\mts20\Desktop\hOOt_v3.3.8\Hoot\bin\Debug\Hoot.pdb
+C:\Users\mts20\Desktop\hOOt_v3.3.8\Hoot\obj\Debug\Hoot.csprojResolveAssemblyReference.cache
+C:\Users\mts20\Desktop\hOOt_v3.3.8\Hoot\obj\Debug\Hoot.csproj.CoreCompileInputs.cache
+C:\Users\mts20\Desktop\hOOt_v3.3.8\Hoot\obj\Debug\Hoot.dll
+C:\Users\mts20\Desktop\hOOt_v3.3.8\Hoot\obj\Debug\Hoot.pdb

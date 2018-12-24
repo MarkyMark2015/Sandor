@@ -1,0 +1,11 @@
+C:\Users\mts20\source\repos\SqlFulltextTest\SqlFulltextTest\bin\Release\SqlFulltextTest.exe.config
+C:\Users\mts20\source\repos\SqlFulltextTest\SqlFulltextTest\bin\Release\SqlFulltextTest.exe
+C:\Users\mts20\source\repos\SqlFulltextTest\SqlFulltextTest\bin\Release\SqlFulltextTest.pdb
+C:\Users\mts20\source\repos\SqlFulltextTest\SqlFulltextTest\bin\Release\RestSharp.dll
+C:\Users\mts20\source\repos\SqlFulltextTest\SqlFulltextTest\obj\Release\SqlFulltextTest.csproj.CoreCompileInputs.cache
+C:\Users\mts20\source\repos\SqlFulltextTest\SqlFulltextTest\obj\Release\SqlFulltextTest.csproj.CopyComplete
+C:\Users\mts20\source\repos\SqlFulltextTest\SqlFulltextTest\obj\Release\SqlFulltextTest.exe
+C:\Users\mts20\source\repos\SqlFulltextTest\SqlFulltextTest\obj\Release\SqlFulltextTest.pdb
+C:\Users\mts20\source\repos\SqlFulltextTest\SqlFulltextTest\bin\Release\Dapper.dll
+C:\Users\mts20\source\repos\SqlFulltextTest\SqlFulltextTest\bin\Release\Dapper.xml
+C:\Users\mts20\source\repos\SqlFulltextTest\SqlFulltextTest\obj\Release\SqlFulltextTest.csprojAssemblyReference.cache

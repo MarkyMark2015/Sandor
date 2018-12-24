@@ -1,0 +1,17 @@
+C:\Users\mts20\source\repos\Uhr\Uhr\bin\Release\Uhr.exe.config
+C:\Users\mts20\source\repos\Uhr\Uhr\bin\Release\Uhr.exe
+C:\Users\mts20\source\repos\Uhr\Uhr\bin\Release\Uhr.pdb
+C:\Users\mts20\source\repos\Uhr\Uhr\obj\Release\Uhr.csprojResolveAssemblyReference.cache
+C:\Users\mts20\source\repos\Uhr\Uhr\obj\Release\MainWindow.baml
+C:\Users\mts20\source\repos\Uhr\Uhr\obj\Release\MainWindow.g.cs
+C:\Users\mts20\source\repos\Uhr\Uhr\obj\Release\ucDigit.g.cs
+C:\Users\mts20\source\repos\Uhr\Uhr\obj\Release\App.g.cs
+C:\Users\mts20\source\repos\Uhr\Uhr\obj\Release\Uhr_MarkupCompile.cache
+C:\Users\mts20\source\repos\Uhr\Uhr\obj\Release\Uhr_MarkupCompile.lref
+C:\Users\mts20\source\repos\Uhr\Uhr\obj\Release\ucDigit.baml
+C:\Users\mts20\source\repos\Uhr\Uhr\obj\Release\Uhr.g.resources
+C:\Users\mts20\source\repos\Uhr\Uhr\obj\Release\Uhr.Properties.Resources.resources
+C:\Users\mts20\source\repos\Uhr\Uhr\obj\Release\Uhr.csproj.GenerateResource.cache
+C:\Users\mts20\source\repos\Uhr\Uhr\obj\Release\Uhr.csproj.CoreCompileInputs.cache
+C:\Users\mts20\source\repos\Uhr\Uhr\obj\Release\Uhr.exe
+C:\Users\mts20\source\repos\Uhr\Uhr\obj\Release\Uhr.pdb

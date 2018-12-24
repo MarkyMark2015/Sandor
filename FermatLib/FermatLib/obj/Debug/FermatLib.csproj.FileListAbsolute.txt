@@ -1,0 +1,10 @@
+C:\Users\mts20\source\repos\FermatLib\FermatLib\bin\Debug\FermatLib.exe.config
+C:\Users\mts20\source\repos\FermatLib\FermatLib\bin\Debug\FermatLib.exe
+C:\Users\mts20\source\repos\FermatLib\FermatLib\bin\Debug\FermatLib.pdb
+C:\Users\mts20\source\repos\FermatLib\FermatLib\obj\Debug\FermatLib.csprojAssemblyReference.cache
+C:\Users\mts20\source\repos\FermatLib\FermatLib\obj\Debug\FermatLib.Form1.resources
+C:\Users\mts20\source\repos\FermatLib\FermatLib\obj\Debug\FermatLib.Properties.Resources.resources
+C:\Users\mts20\source\repos\FermatLib\FermatLib\obj\Debug\FermatLib.csproj.GenerateResource.cache
+C:\Users\mts20\source\repos\FermatLib\FermatLib\obj\Debug\FermatLib.csproj.CoreCompileInputs.cache
+C:\Users\mts20\source\repos\FermatLib\FermatLib\obj\Debug\FermatLib.exe
+C:\Users\mts20\source\repos\FermatLib\FermatLib\obj\Debug\FermatLib.pdb

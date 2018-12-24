@@ -1,0 +1,58 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Watt" x:Class="Watt.MainWindow"
+        mc:Ignorable="d"
+        Background="Black"
+        WindowStyle="None"
+    WindowState="Maximized"
+        Title="" Height="400" Width="600">
+    <Window.Resources>
+        <Style x:Key="textHeader" TargetType="TextBlock">
+            <Setter Property="Background" Value="Black" />
+            <Setter Property="Foreground" Value="Wheat" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Setter Property="FontSize" Value="24" />
+            <Setter Property="Margin" Value="0,0,0,0" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <!-- Spielernamen -->
+        <TextBlock Grid.Row="0" Grid.Column="0" Name="PlayerAName" 
+                   Style="{StaticResource textHeader}"
+                   MouseUp="btnPlayer" Text="Maria" />
+        <TextBlock Grid.Row="0" Grid.Column="2" Name="PlayerBName" 
+                   Style="{StaticResource textHeader}"
+                   MouseUp="btnPlayer" Text="Magdalena" />
+ 
+        <!-- Player A-->
+        <Viewbox Grid.Row="1" Grid.Column="0" Grid.RowSpan="3" >
+            <local:ucCounter x:Name="PlayerA" PreviewMouseUp="ucCounterA" />
+        </Viewbox>
+        
+        <!-- Player A-->
+        <Viewbox Grid.Row="1" Grid.Column="2" Grid.RowSpan="3" >
+            <local:ucCounter x:Name="PlayerB" PreviewMouseUp="ucCounterB" />
+        </Viewbox>
+
+        <!-- Hauptschlag-->
+        <local:ucHauptschlag Grid.Row="1" Grid.Column="1" Grid.RowSpan="2" 
+                             x:Name="Hauptschlag" VerticalAlignment="Center" 
+                             MouseUp="btnHauptschlag"   />
+
+    </Grid>
+</Window>
