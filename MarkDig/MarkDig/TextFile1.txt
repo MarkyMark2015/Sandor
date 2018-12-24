@@ -1,6 +1,6 @@
 ﻿# Markup on the fly #
 
-## Grundfunktionen
+## Grundfunktionen ##
 Das ist *italic* und **fett** und ***fett+italic***.  
 Neu ist ~~durchgestrichen~~ sowie ~superscript~ und ^subscript^.  
 Mit ++inserted++ und ==marked== Text geht es auch **++kombiniert++**.
