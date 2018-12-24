@@ -1,5 +1,4 @@
 ﻿# Markup on the fly #
-## neu in Branch v1 ##
 
 ## Grundfunktionen
 Das ist *italic* und **fett** und ***fett+italic***.  
